@@ -6,12 +6,14 @@ This project provides a simplified overview to help players understand how progr
 
 ## What This Guide Covers
 
-- Main story progression basics  
-- Character route structure  
-- Important decision points  
-- General gameplay tips  
+- Main story progression basics
+- Character route structure
+- Important decision points
+- General gameplay tips
 
 The guide focuses on helping players move forward efficiently while keeping the experience natural.
+
+For a dedicated reference covering character locations, schedules, prerequisites, and common unlock problems, see the [Summertime Saga Character Unlock Guide](https://character-unlock-guide.vercel.app/).
 
 ## Important Notes
 
@@ -19,9 +21,9 @@ Summertime Saga is a non-linear visual novel. Most routes can be completed in di
 
 To avoid common issues:
 
-- Complete early story objectives first  
-- Use multiple save slots  
-- Follow character schedules carefully  
+- Complete early story objectives first
+- Use multiple save slots
+- Follow character schedules carefully
 
 ## Full Detailed Guide
 
